@@ -1,0 +1,8 @@
+.idea
+__pycache__
+.pytest_cache
+.coverage
+.venv
+dist
+infra/.terraform
+.DS_Store
